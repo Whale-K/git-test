@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("version 3.0");
         System.out.println("version 4.0");
         System.out.println("hof-fix");
-        System.out.println("hof-fix-1");
+        System.out.println("hof-fix-master");
 
     }
 }
