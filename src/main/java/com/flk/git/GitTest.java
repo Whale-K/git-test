@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hello git！");
         System.out.println("version 2.0");
         System.out.println("version 3.0");
+        System.out.println("hof-fix");
     }
 }
